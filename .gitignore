@@ -1,2 +1,7 @@
 /.terraform*
 /terraform.tfstate*
+/tfplan
+/.env
+/.vscode
+/.infracost
+/.VSCodeCounter
